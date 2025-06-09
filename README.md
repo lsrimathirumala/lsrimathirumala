@@ -16,7 +16,7 @@ I am a Computer Science undergraduate at GITAM University with a strong academic
   Aug 2022 – May 2026
 
 - **Computer Science Minor**, Masai X IIT Guwahati  
-  GPA: 94/100 | Top 30 of the cohort  
+  GPA: 96/100 | Top 30 of the cohort  
   May 2024 – Jul 2025
 
 ---
@@ -36,36 +36,40 @@ I am a Computer Science undergraduate at GITAM University with a strong academic
 - **AI-Powered Resume Screening System**  
   Developed a Streamlit application to automate resume parsing, ranking, and interview question generation. Improved recruiter efficiency by 30%.
 
-- **Internship & Placement Recommendation Portal**  
-  Built a web-based platform that analyzes resumes and recommends job listings using scraping and intelligent matching algorithms.
+- **Internship & Placement Recommendation Portal** *(In Progress)*  
+  Web-based platform that analyzes resumes and recommends job listings using intelligent matching algorithms and job scraping.
 
-- **Study Material Analyzer**  
-  Designed an AI tool to assess and visualize individual learning progress based on study materials.
+- **Study Material Analyzer** *(In Progress)*  
+  AI-powered tool that provides insights into individual learning progress using document and content analysis.
 
 - **Weather Modeling Website**  
-  Created a dynamic web app to simulate weather patterns based on environmental inputs, improving user engagement by 25%.
+  Developed an interactive web app simulating weather patterns based on environmental parameters.
 
 - **Voice Assistant**  
-  Implemented a basic voice-controlled assistant using NLP to execute web-based commands.
+  Built a basic NLP-powered voice assistant capable of performing web-based tasks and answering general queries.
 
 ---
 
 ### Experience
+
+- **AI Intern**, Coriolis Technologies  
+  Working on AI solutions for audio and video analysis, involving model development for real-time media understanding.  
+  May 2025 – Jul 2025
 
 - **LaunchPad Trainee**, PwC  
   Trained in workflow optimization, automation, and operational efficiency.  
   Feb 2025 – Present
 
 - **AI Intern**, Edunet Foundation  
-  Deployed ML models to identify key reasons behind application failures, reducing resolution time by 40%.  
+  Deployed ML models to identify common causes of application failure, improving resolution speed by 40%.  
   Feb 2025 – Mar 2025
 
 - **Salesforce Trainee**, ServiceNow  
-  Gained expertise in ITSM, workflow automation, scripting, and catalog configuration.  
+  Focused on ITSM, scripting, workflow automation, and catalog configuration.  
   Jan 2025 – Present
 
 - **Cloud Computing Intern**, SmartKnower  
-  Worked with Microsoft Azure on optimizing remote system performance.  
+  Worked with Microsoft Azure to enhance performance in remote computing environments.  
   Oct 2022 – Nov 2022
 
 ---
@@ -81,13 +85,22 @@ I am a Computer Science undergraduate at GITAM University with a strong academic
 ### Leadership & Extracurriculars
 
 - **President**, IEEE-CS GITAM  
-  Led five technical events promoting innovation and collaboration.
+  Led five technical initiatives promoting innovation, leadership, and collaboration.
 
 - **Student Coordinator**, Directorate of External Relations, GITAM  
-  Facilitated student engagement with industry professionals and academic opportunities.
+  Facilitated academic and industry connections to enhance student opportunities.
 
 - **President**, Chess SIG, GITAM  
-  Organized over ten competitive events to enhance analytical thinking through chess.
+  Organized over ten chess events to cultivate critical thinking and strategy.
+
+---
+
+### Current Goals
+
+- Preparing for **GATE CSE 2026**  
+- Completing **ServiceNow CSA and CAD certifications**  
+- Advancing my **AI-based job portal** and contributing to open-source projects  
+- Expanding expertise in **audio/video intelligence**, **cloud infrastructure**, and **virtualization technologies**
 
 ---
 
