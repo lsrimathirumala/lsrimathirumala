@@ -12,23 +12,32 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      # Fetch recent repositories
-      - name: Fetch Recent Repos
-        uses: gautamkrishnar/blog-post-workflow@master
-        with:
-          repo-token: ${{ secrets.GITHUB_TOKEN }}
-          max_post_count: 5
-          readme-path: README.md
-          comment_tag_name: recent_repos
-          feed_list: https://rsshub.app/github/repos/lsrimathirumala
+      - name: Fetch Recent Repos via GitHub API
+        id: fetch
+        run: |
+          echo "Fetching recent repos..."
+          REPOS=$(curl -s -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
+            "https://api.github.com/users/lsrimathirumala/repos?sort=created&direction=desc&per_page=5" \
+            | jq -r '.[] | "- [" + .name + "](" + .html_url + ") — " + (.description // "No description")')
 
-      # Commit the changes
+          echo "$REPOS" > recent_repos.md
+          echo "RECENT_REPOS<<EOF" >> $GITHUB_ENV
+          cat recent_repos.md >> $GITHUB_ENV
+          echo "EOF" >> $GITHUB_ENV
+
+      - name: Update README
+        run: |
+          START="<!--START_SECTION:recent_repos-->"
+          END="<!--END_SECTION:recent_repos-->"
+          CONTENT=$(cat recent_repos.md)
+
+          # Replace old content
+          perl -0777 -pi -e "s|$START.*?$END|$START\n$CONTENT\n$END|s" README.md
+
       - name: Commit changes
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
           git add README.md
-          git commit -m "chore: update recent repos"
+          git commit -m "chore: update recent repos" || echo "No changes to commit"
           git push
-
-      
