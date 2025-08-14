@@ -110,6 +110,11 @@ I create impactful AI and software systems, focusing on **NLP, automation, and s
 
 ## 📌 Recent Projects
 <!--START_SECTION:recent_repos-->
+- [Policy_Query_Parser](https://github.com/lsrimathirumala/Policy_Query_Parser) — Collaborative work with Yoshitha Maddineni and Lasya Priya Korada
+- [lsrimathirumala](https://github.com/lsrimathirumala/lsrimathirumala) — Personal Repo
+- [Job_Portal](https://github.com/lsrimathirumala/Job_Portal) — No description
+- [JobPortal](https://github.com/lsrimathirumala/JobPortal) — No description
+- [B-Day](https://github.com/lsrimathirumala/B-Day) — No description
 <!--END_SECTION:recent_repos-->
 
 ---
