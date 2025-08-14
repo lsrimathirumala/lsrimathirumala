@@ -108,7 +108,7 @@ I create impactful AI and software systems, focusing on **NLP, automation, and s
 
 ---
 
-## 📌 Recent Projects (Auto-updated)
+## 📌 Recent Projects
 <!--START_SECTION:recent_repos-->
 <!--END_SECTION:recent_repos-->
 
