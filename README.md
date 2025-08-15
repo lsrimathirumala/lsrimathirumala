@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=9955BB&height=120&section=header&text=Lakshmi%20Tejaswini%20Srimathirumala%20Pallerlamudi&fontSize=25&fontColor=ffffff&animation=fadeIn&fontAlignY=35&font=Playfair%20Display" />
 </p>
 
-<h3 align="center">Computer Science Undergraduate | AI & Software Development Enthusiast | GATE 2026 Aspirant</h3>
+<h3 align="center">Computer Science Undergraduate | AI & Software Development Enthusiast </h3>
 
 <!-- Typing Animation -->
 <p align="center">
