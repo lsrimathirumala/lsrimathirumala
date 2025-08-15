@@ -28,7 +28,7 @@ I create impactful AI and software systems, focusing on **NLP, automation, and s
 - **Salesforce Launchpad Training** @ PwC India  
 - **ServiceNow CSA + CAD Certification**  
 
-🎯 Current focus: Building **full-stack NLP-powered tools**, enhancing **cloud-native AI solutions**, and preparing for **GATE 2026**.
+🎯 Current focus: Building **full-stack NLP-powered tools** and enhancing **cloud-native AI solutions**.
 
 ---
 
