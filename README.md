@@ -86,13 +86,6 @@ I create impactful AI and software systems, focusing on **NLP, automation, and s
 
 ---
 
-## 🏆 Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lsrimathirumala&theme=radical&no-frame=true&row=1&column=6" />
-</p>
-
----
-
 ## 📈 Contribution Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=lsrimathirumala&theme=react-dark" />
@@ -102,7 +95,6 @@ I create impactful AI and software systems, focusing on **NLP, automation, and s
 
 ## 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lsrimathirumala&show_icons=true&theme=radical" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lsrimathirumala&layout=compact&theme=radical" width="48%" />
 </p>
 
