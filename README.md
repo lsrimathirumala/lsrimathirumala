@@ -79,10 +79,10 @@ I create impactful AI and software systems, focusing on **NLP, automation, and s
 ---
 
 ## 👩‍💼 Leadership & Awards
-- **President** – IEEE Computer Society, GITAM  
-- **President** – Chess SIG, GITAM  
+- **President** – IEEE Computer Society, GITAM - 2024-25
+- **President** – Chess SIG, GITAM - 2024
 - **AP Scholar Award**  - CollegeBoard
-- **Student Coordinator** – Directorate of External Relations  
+- **Student Coordinator** – Directorate of External Relations - 2024-25
 
 ---
 
