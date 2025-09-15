@@ -102,11 +102,11 @@ I create impactful AI and software systems, focusing on **NLP, automation, and s
 
 ## 📌 Recent Projects
 <!--START_SECTION:recent_repos-->
+- [HTML-CSS-Comprehensive-Assignment](https://github.com/lsrimathirumala/HTML-CSS-Comprehensive-Assignment) — No description
 - [Policy_Query_Parser](https://github.com/lsrimathirumala/Policy_Query_Parser) — Collaborative work with Yoshitha Maddineni and Lasya Priya Korada
 - [lsrimathirumala](https://github.com/lsrimathirumala/lsrimathirumala) — Personal Repo
 - [Job_Portal](https://github.com/lsrimathirumala/Job_Portal) — A full-stack job portal where recruiters can post jobs and manage applicants, and job seekers can search and apply — built with HTML, CSS, JavaScript, Node.js, MongoDB, and JWT authentication.
 - [B-Day](https://github.com/lsrimathirumala/B-Day) — A fun birthday greeting web page built with HTML, CSS, and JavaScript for a personalized celebration.
-- [AI-Powered-Resume-Screening-and-Ranking-System](https://github.com/lsrimathirumala/AI-Powered-Resume-Screening-and-Ranking-System) — An AI-powered system that automatically screens, analyzes, and ranks resumes using NLP and machine learning, helping recruiters shortlist candidates faster and more accurately.
 <!--END_SECTION:recent_repos-->
 
 ---
