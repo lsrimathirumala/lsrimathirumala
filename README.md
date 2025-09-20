@@ -102,11 +102,11 @@ I create impactful AI and software systems, focusing on **NLP, automation, and s
 
 ## 📌 Recent Projects
 <!--START_SECTION:recent_repos-->
+- [DOM-JavaScript-Assignment](https://github.com/lsrimathirumala/DOM-JavaScript-Assignment) — No description
 - [Personal-Budget-Tracker](https://github.com/lsrimathirumala/Personal-Budget-Tracker) — No description
 - [HTML-CSS-Comprehensive-Assignment](https://github.com/lsrimathirumala/HTML-CSS-Comprehensive-Assignment) — No description
 - [Policy_Query_Parser](https://github.com/lsrimathirumala/Policy_Query_Parser) — Collaborative work with Yoshitha Maddineni and Lasya Priya Korada
 - [lsrimathirumala](https://github.com/lsrimathirumala/lsrimathirumala) — Personal Repo
-- [Job_Portal](https://github.com/lsrimathirumala/Job_Portal) — A full-stack job portal where recruiters can post jobs and manage applicants, and job seekers can search and apply — built with HTML, CSS, JavaScript, Node.js, MongoDB, and JWT authentication.
 <!--END_SECTION:recent_repos-->
 
 ---
