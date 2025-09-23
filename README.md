@@ -102,11 +102,11 @@ I create impactful AI and software systems, focusing on **NLP, automation, and s
 
 ## 📌 Recent Projects
 <!--START_SECTION:recent_repos-->
+- [sih-backend](https://github.com/lsrimathirumala/sih-backend) — No description
 - [DOM-JavaScript-Assignment](https://github.com/lsrimathirumala/DOM-JavaScript-Assignment) — No description
 - [Personal-Budget-Tracker](https://github.com/lsrimathirumala/Personal-Budget-Tracker) — No description
 - [HTML-CSS-Comprehensive-Assignment](https://github.com/lsrimathirumala/HTML-CSS-Comprehensive-Assignment) — No description
 - [Policy_Query_Parser](https://github.com/lsrimathirumala/Policy_Query_Parser) — Collaborative work with Yoshitha Maddineni and Lasya Priya Korada
-- [lsrimathirumala](https://github.com/lsrimathirumala/lsrimathirumala) — Personal Repo
 <!--END_SECTION:recent_repos-->
 
 ---
