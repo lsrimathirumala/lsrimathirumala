@@ -21,7 +21,7 @@ profile = {
     "name"       : "Lakshmi Tejaswini Srimathirumala Pallerlamudi",
     "education"  : ["B.Tech CS @ GITAM University (CGPA: 9.2/10, Top 2%)",
                     "CS Minor @ IIT Guwahati (96/100, Top 30 Cohort)"],
-    "currently"  : "Salesforce Developer @ PwC AC India (Conga Rebranding Project)",
+    "currently"  : "Salesforce Developer @ PwC AC India",
     "selected"   : "Amazon ML Summer School '25",
     "focus"      : ["NLP Pipelines", "Multimodal AI", "Scalable Backend Systems"],
     "building"   : "Production-grade AI tools that solve real problems",
@@ -40,6 +40,10 @@ I don't just learn tools — I ship systems with measurable outcomes.
 > **Whisper · Hume AI · FastAPI · Async Microservices · REST**
 
 Designed and shipped an end-to-end interview evaluation system in production. Decomposed a monolithic analysis flow into independent transcript + emotion microservices connected via async job-polling — achieving **85% emotion-tagging accuracy** across 100+ recordings and **~50% reduction in end-to-end latency**.
+
+<a href="https://mentoas.in/app/project_showcase/report-demo/0425b558-3494-4860-bef2-0d8ae7ffd5ac/"><img src="https://img.shields.io/badge/View%20Project%20Report-0f0c29?style=flat-square&logo=googledocs&logoColor=c9b8ff"></a>
+&nbsp;
+<a href="https://github.com/lsrimathirumala/lsrimathirumala/blob/main/reports/coriolis-multimodal-ai-pipeline.pdf"><img src="https://img.shields.io/badge/Download%20PDF-0f0c29?style=flat-square&logo=adobeacrobatreader&logoColor=c9b8ff"></a>
 
 ---
 
